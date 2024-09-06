@@ -26,7 +26,7 @@ build/
 !**/test/**/build
 *.iml
 !**/testData/**/*.iml
-.idea/artifacts
+.idea/artifacts:
 .idea/remote-targets.xml
 .idea/libraries/Gradle*.xml
 .idea/libraries/Maven*.xml
@@ -81,3 +81,4 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
