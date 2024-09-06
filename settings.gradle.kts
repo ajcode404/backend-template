@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "backend-template"
-include("app", "list", "utilities")
+include("app")
