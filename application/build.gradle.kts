@@ -15,6 +15,7 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+    include("io/github/ajcode404/**")
 }
 application {
     mainClass = "io.github.ajcode404.MainKt"
