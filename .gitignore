@@ -2,4 +2,6 @@
 .gradle
 .idea
 .DS
-
+build
+application/build/
+**/build
